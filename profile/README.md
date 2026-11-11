@@ -1,6 +1,6 @@
 <!-- ===================== 헤더 ===================== -->
 <p align="center">
-  <img src="./images/header.svg" width="100%" alt="학생들의 작업공간입니다 🌱" />
+  <img src="./images/header.svg" width="100%" alt="학생들의 작업공간입니다 ♥" />
 </p>
 
 <p align="center">
