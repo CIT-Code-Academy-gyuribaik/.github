@@ -10,7 +10,9 @@
 <br/>
 
 <!-- ===================== 웹 ===================== -->
-## `~/web`
+<p align="center">
+  <img src="./images/section-web.svg" width="100%" alt="웹 개발 프로젝트" />
+</p>
 
 <table>
   <tr>
@@ -26,7 +28,9 @@
 </table>
 
 <!-- ===================== 게임 ===================== -->
-## `~/games`
+<p align="center">
+  <img src="./images/section-games.svg" width="100%" alt="게임 개발 프로젝트" />
+</p>
 
 <table>
   <tr>
