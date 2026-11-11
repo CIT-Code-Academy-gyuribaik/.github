@@ -2,10 +2,6 @@
 <h1 align="center">학생들의 작업공간입니다 🌱</h1>
 
 <p align="center">
-  직접 기획하고, 코딩하고, 플레이해 보며 만든 작품들을 모아두었어요.
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode" />
 </p>
 
