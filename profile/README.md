@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,godot,robloxstudio,cloudflare" /><img src="./images/claude.svg" alt="Claude" />
 </p>
 
 <br/>
