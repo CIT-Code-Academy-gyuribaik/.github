@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,godot,robloxstudio,cloudflare" /><img src="./images/claude.svg" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,godot" /><img src="./images/roblox-studio.svg" alt="Roblox Studio" /><img src="https://skillicons.dev/icons?i=vscode,git,github" /><img src="./images/claude.svg" alt="Claude" /><img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
 <br/>
