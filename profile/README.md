@@ -36,51 +36,51 @@
   <tr>
     <td width="50%" align="center">
       <img src="./images/mungmung-battle.webp" width="100%" alt="멍멍 특공대" />
-      <br/><b>멍멍 특공대</b> &nbsp;·&nbsp; <sub>냥이 침공에 맞서는 강아지 기지 디펜스</sub>
+      <br/><b>멍멍 특공대</b> &nbsp;·&nbsp; <sub>냥코대전쟁 패러디 게임</sub>
     </td>
     <td width="50%" align="center">
       <img src="./images/mungmung-lobby.webp" width="100%" alt="멍멍 특공대 로비" />
-      <br/><sub>파워 업 · 캐릭터 편성 · 레어 뽑기</sub>
+      <br/><sub>파워 업, 캐릭터 편성, 레어 뽑기</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./images/browsing-escape-diary.webp" width="100%" alt="브라우징 탈출 게임 일기" />
-      <br/><sub>2007. 4. 6. 흐림 — 라벨 없는 비디오테이프</sub>
+      <br/><b>브라우징 탈출</b><sub>비디오테이프</sub>
     </td>
     <td width="50%" align="center">
       <img src="./images/browsing-escape.webp" width="100%" alt="브라우징 탈출 게임" />
-      <br/><b>브라우징 탈출</b> &nbsp;·&nbsp; <sub>암호와 단서로 빠져나가기</sub>
+      <br/><b>브라우징 탈출</b> &nbsp;·&nbsp; <sub>암호와 단서로 문제풀기</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./images/facility-escape.webp" width="100%" alt="시설 탈출 게임" />
-      <br/><b>시설 탈출</b> &nbsp;·&nbsp; <sub>숲을 헤매며 출구를 찾는 1인칭 생존</sub>
+      <br/><b>시설 탈출 게임</b> &nbsp;·&nbsp; <sub>숲속</sub>
     </td>
     <td width="50%" align="center">
       <img src="./images/roblox-pet.webp" width="100%" alt="펫 가져오기" />
-      <br/><b>펫 가져오기</b> &nbsp;·&nbsp; <sub>로블록스 · 밤이 오기 전에!</sub>
+      <br/><b>펫 가져오기</b> &nbsp;·&nbsp; <sub>로블록스 스튜디오</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./images/chess.webp" width="100%" alt="체스" />
-      <br/><b>Chess</b> &nbsp;·&nbsp; <sub>로컬 · 봇 · 온라인</sub>
+      <br/><b>체스게임</b> &nbsp;·&nbsp; <sub>봇과 플레이하는 체스</sub>
     </td>
     <td width="50%" align="center">
       <img src="./images/typing-test.webp" width="100%" alt="타이핑 테스트" />
-      <br/><b>Typing Test</b> &nbsp;·&nbsp; <sub>15초부터 120초까지</sub>
+      <br/><b>Typing Test</b> &nbsp;·&nbsp; <sub>타자속도 측정 테스트</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./images/vfx-ice.webp" width="100%" alt="얼음 크리스탈" />
-      <br/><b>Ice Crystal</b>
+      <br/><b>Ice Crystal</b> &nbsp;·&nbsp; <sub>3D 에셋 활용</sub>
     </td>
     <td width="50%" align="center">
       <img src="./images/vfx-magic-circle.webp" width="100%" alt="마법진" />
-      <br/><b>Magic Circle</b>
+      <br/><b>Magic Circle</b> &nbsp;·&nbsp; <sub>3D 에셋 활용</sub>
     </td>
   </tr>
 </table>
